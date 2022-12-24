@@ -40,8 +40,6 @@ npm run start:watch
 
 # Test application 🧪
 
-If you want to test it once, run:
-
 ```bash
 
 # Run once
